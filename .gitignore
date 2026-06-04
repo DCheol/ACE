@@ -37,6 +37,8 @@ wandb/*
 /dataset/**/*.gz
 /dataset/**/*.csv
 /dataset/downstream/
+!dataset/**/
+!**/ .gitkeep
 *.sh
 !dataset/raw/download.sh
 !dataset/preprocessing/preprocess.sh
