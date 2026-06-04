@@ -1,4 +1,4 @@
-# LASER
+# ACE: Anisotropy-Controllable Embedding for LLM-enhanced Sequential Recommendation
 
 This repo contains the code for preprocessing Amazon-style sequential recommendation datasets, building item embeddings, and running RecBole experiments.
 
@@ -20,7 +20,7 @@ For preprocessing, you need:
 - `<dataset>.item`
 - `<dataset>.inter`
 
-If you do not already have these files, download them from:
+If you do not already have these files, download Recbole's preprocessed file:
 
 [Google Drive folder](https://drive.google.com/drive/folders/1ahiLmzU7cGRPXf5qGMqtAChte2eYp9gI)
 
