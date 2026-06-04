@@ -17,6 +17,7 @@ RecBole experiment
 ---
 
 ## Dataset Structure
+You can download preprocessed dataset here: [link](https://drive.google.com/drive/folders/1B5tUP9VWcY4jGiLBwmq76rxr0yq8PUu8?usp=drive_link)
 
 Place the dataset files under `dataset/<dataset>/`.
 
