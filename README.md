@@ -1,6 +1,7 @@
 # ACE: Anisotropy-Controllable Embedding for LLM-enhanced Sequential Recommendation
 
 This repository provides preprocessing scripts and RecBole experiment code for LLM-enhanced sequential recommendation.
+You can find our paper [[here](https://dl.acm.org/doi/10.1145/3805712.3809911)].
 
 The overall flow is:
 
